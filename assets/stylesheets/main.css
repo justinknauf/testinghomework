@@ -120,7 +120,7 @@ span.accent {
   letter-spacing:1px;
 }
 #actionCall a:link, #actionCall a:visited{
-  border: none;
+  border: 10px solid;
   width: 285px;
   height: 55px;
   background: url(../images/tour_badge.png) no-repeat;
@@ -131,7 +131,7 @@ span.accent {
   background-position: left bottom;
 }
 #actionCall h2{
-  text-indent:-1000em;
+  text-indent:-100em;
 }
 #home #contentWrapper{
   margin: 0 25px;
