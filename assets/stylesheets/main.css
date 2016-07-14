@@ -121,7 +121,8 @@ span.accent {
 }
 #actionCall a:link, #actionCall a:visited{
   border: 10px solid;
-  border-color: blue;
+  border-color: #66a3ff;
+  border-radius: 65px;
   width: 285px;
   height: 55px;
   background: url(../images/tour_badge.png) no-repeat;
@@ -214,7 +215,7 @@ span.accent {
   background: #e1d8b9;
   clear:both;
   overflow: auto;
-  border-top: 1px solid #757575;
+  border-top: 11px solid #757575;
   height: 300px;
   width: 100%;
 }
